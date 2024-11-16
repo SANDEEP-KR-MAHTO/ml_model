@@ -1,7 +1,5 @@
 streamlit
 
-python
-
 scikit-learn
 
 nltk==3.8.1
